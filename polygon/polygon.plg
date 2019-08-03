@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: polygon - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP8F7.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/polygon.pdb" /debug /machine:I386 /out:"Debug/polygon.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\pointlist.obj"
+".\Debug\polygon.obj"
+".\Debug\polygonDoc.obj"
+".\Debug\polygonView.obj"
+".\Debug\StdAfx.obj"
+".\Debug\polygon.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP8F7.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+polygon.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

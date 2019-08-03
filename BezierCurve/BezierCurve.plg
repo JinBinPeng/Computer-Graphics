@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BezierCurve - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/BezierCurve.res" /d "_DEBUG" /d "_AFXDLL" "C:\Users\user\Desktop\2015081030 龙伟 实验九\实验9\BezierCurve\BezierCurve.rc"" 
+Creating temporary file "C:\Users\user\AppData\Local\Temp\RSP8D1C.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/BezierCurve.pdb" /debug /machine:I386 /out:"Debug/BezierCurve.exe" /pdbtype:sept 
+".\Debug\BezierCurve.obj"
+".\Debug\BezierCurveDoc.obj"
+".\Debug\BezierCurveView.obj"
+".\Debug\MainFrm.obj"
+".\Debug\P2.obj"
+".\Debug\StdAfx.obj"
+".\Debug\BezierCurve.res"
+]
+Creating command line "link.exe @C:\Users\user\AppData\Local\Temp\RSP8D1C.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+BezierCurve.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

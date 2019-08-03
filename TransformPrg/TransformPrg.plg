@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: TransformPrg - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\user\AppData\Local\Temp\RSPEC1E.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/TransformPrg.pdb" /debug /machine:I386 /out:"Debug/TransformPrg.exe" /pdbtype:sept 
+.\Debug\MainFrm.obj
+.\Debug\StdAfx.obj
+.\Debug\TransformPrg.obj
+.\Debug\TransformPrgDoc.obj
+.\Debug\TransformPrgView.obj
+.\Debug\TransformPrg.res
+.\Debug\Line.obj
+.\Debug\P2.OBJ
+.\Debug\TransForm.obj
+.\Debug\LeftPortion.obj
+]
+Creating command line "link.exe @C:\Users\user\AppData\Local\Temp\RSPEC1E.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+TransformPrg.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

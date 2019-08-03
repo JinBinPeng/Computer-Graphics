@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: transform_new - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPC484.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/transform_new.pdb" /debug /machine:I386 /out:"Debug/transform_new.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\P2.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Transform .obj"
+".\Debug\transform_new.obj"
+".\Debug\transform_newDoc.obj"
+".\Debug\transform_newView.obj"
+".\Debug\transform_new.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPC484.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+transform_new.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
